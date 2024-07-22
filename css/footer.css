@@ -1,0 +1,18 @@
+footer {
+    margin: 16px 8px 42px 8px;
+    color: whitesmoke;
+    p {
+	font-size: 1em;
+	font-family: gab;
+	font-weight: 400;
+    }
+    a {
+	color: #9c7dd8;
+    }
+}
+
+@media screen and (min-width: 440px) {
+    footer {
+	margin: 16px 24px 42px 24px;
+    }
+}

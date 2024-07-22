@@ -1,0 +1,20 @@
+@font-face {
+    font-family: vibes;
+    src: url('../font/GreatVibes.woff') format('woff');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: gab;
+    src: url('../font/Gabarito-Bold.ttf') format('ttf');
+    font-weight: 700;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: gab;
+    src: url('../font/Gabarito-Regular.ttf') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
